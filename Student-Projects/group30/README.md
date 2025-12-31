@@ -5,7 +5,7 @@
 
 A desktop application for analyzing and estimating housing prices in Tehran using real housing data and similarity-based filtering.
 
----
+----
 
 ## 📌 Project Information
 
@@ -107,4 +107,5 @@ This project demonstrates the practical use of data analysis and GUI development
 
 
 Developed by AI Students Lab
+
 
